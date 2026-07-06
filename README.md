@@ -11,9 +11,13 @@ Based on [AxfcTrySystem](https://github.com/stsaria/AxfcTrySystem), which does n
 Tested on Python `3.14.6`.  
 Dependencies may work with other versions, but have not been tested.
 
-`pip install requests==2.34.2 beautifulsoup4==4.15.0`  
+```
+pip install requests==2.34.2 beautifulsoup4==4.15.0
+```  
 or  
-`pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+```
 
 ## Additional Info
 
