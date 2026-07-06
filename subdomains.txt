@@ -1,0 +1,51 @@
+# zodiac
+aries
+taurus
+gemini
+cancer
+leo
+virgo
+libra
+scorpio
+sagittarius
+capricornus
+capricomus
+aquarius
+pisces
+# primates
+ape
+chimpanzee
+gorilla
+monkey
+# sea creatures
+capelin
+crab
+mackerel
+scallop
+shark
+# rocks (gemstones)
+amber
+aquamarine
+diamond
+emerald
+garnet
+opal
+pearl
+peridot
+ruby
+saffron
+sapphire
+# rocks (seasoning)
+salt
+pepper
+# planets
+mercury
+venus
+earth
+mars
+jupiter
+saturn
+uranus
+neptune
+# ???
+fenrir
