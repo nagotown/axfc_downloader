@@ -1,5 +1,8 @@
 # Axfc Downloader
 
+> [!IMPORTANT]
+> This script only works if the file you are trying to download does not have a captcha.
+
 Axfc is very prone to not selecting the right subdomain to download from, if the file still exists on the server.
 
 This tool tries to download from each of Axfc's subdomains and stops when successful.
